@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.286cffca.css",
-    "main.js": "/your-repo-name/static/js/main.d41325f0.js",
-    "static/js/453.b56c8629.chunk.js": "/your-repo-name/static/js/453.b56c8629.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.286cffca.css.map": "/your-repo-name/static/css/main.286cffca.css.map",
-    "main.d41325f0.js.map": "/your-repo-name/static/js/main.d41325f0.js.map",
-    "453.b56c8629.chunk.js.map": "/your-repo-name/static/js/453.b56c8629.chunk.js.map"
+    "main.css": "/Nokwanda23/gamified-task-tracker/static/css/main.286cffca.css",
+    "main.js": "/Nokwanda23/gamified-task-tracker/static/js/main.db5514ee.js",
+    "static/js/453.b56c8629.chunk.js": "/Nokwanda23/gamified-task-tracker/static/js/453.b56c8629.chunk.js",
+    "index.html": "/Nokwanda23/gamified-task-tracker/index.html",
+    "main.286cffca.css.map": "/Nokwanda23/gamified-task-tracker/static/css/main.286cffca.css.map",
+    "main.db5514ee.js.map": "/Nokwanda23/gamified-task-tracker/static/js/main.db5514ee.js.map",
+    "453.b56c8629.chunk.js.map": "/Nokwanda23/gamified-task-tracker/static/js/453.b56c8629.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.286cffca.css",
-    "static/js/main.d41325f0.js"
+    "static/js/main.db5514ee.js"
   ]
 }
